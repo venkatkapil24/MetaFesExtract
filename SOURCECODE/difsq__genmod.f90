@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jul 10 13:50:24 2015
+        MODULE DIFSQ__genmod
+          INTERFACE 
+            FUNCTION DIFSQ(ITER1) RESULT(DIFSQ_0)
+              INTEGER(KIND=4) :: ITER1
+              REAL(KIND=8) :: DIFSQ_0
+            END FUNCTION DIFSQ
+          END INTERFACE 
+        END MODULE DIFSQ__genmod

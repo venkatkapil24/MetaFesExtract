@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jul 10 13:50:24 2015
+        MODULE GETI__genmod
+          INTERFACE 
+            SUBROUTINE GETI
+            END SUBROUTINE GETI
+          END INTERFACE 
+        END MODULE GETI__genmod

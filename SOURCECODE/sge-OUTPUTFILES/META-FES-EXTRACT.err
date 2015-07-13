@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 4 with PID 2624 on
+node compute-0-17.local exiting without calling "finalize". This may
+have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+--------------------------------------------------------------------------
+rm: cannot remove `/data/35363.1.new.q/rsh': No such file or directory
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 4 with PID 10934 on
+node compute-0-21.local exiting without calling "finalize". This may
+have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+--------------------------------------------------------------------------
+rm: cannot remove `/data/35364.1.new.q/rsh': No such file or directory
+rm: cannot remove `/data/35366.1.new.q/rsh': No such file or directory

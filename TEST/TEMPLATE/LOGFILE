@@ -1,0 +1,31 @@
+**********************************************
+*                 SUM_HILLS-1.1              *
+*                                            *
+*      A SUPERFAST FREE ENEGRY               *
+*      RECONSTRUCTION CODE.                  *
+*                                            *
+*      DEVELOPED BY VENKAT KAPIL             *
+*      CONTACT : venkat@iitk.ac.in           *
+*                                            *
+*      COPYRIGHT (C) 2015 VENKAT KAPIL       *
+*      SOME RIGHTS RESERVED.                 *
+*                                            *
+**********************************************
+ 
+INPUT FOR MTD AND GRID PARAMETERS IS COMPLETE.                                                                                                                                                          
+INPUT FOR HILLS IS COMPLETE.                                                                                                                                                                            
+
+NUMBER OF COLLECTIVE VARIABLES  =    1
+NUMBER OF GAUSSIANS  =   10
+SIZEOF GRID  =  121
+
+PRINTING FREE ENERGY SURFACE IN :FESFILE                                                                                                                                                                
+ 
+TIME TAKEN BY CODE DURING:
+INPUT                     (s) =            0.00
+READING HILLS FILE        (s) =            0.00
+CALCULATING TOTAL BIAS    (s) =           -0.03
+PRINTING THE FREE ENERGY  (s) =            0.03
+ 
+TOTAL CPU TIME            (s) =            0.00
+**********************************************

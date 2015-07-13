@@ -1,0 +1,2 @@
+NPROC=1
+mpirun -np $NPROC ./META-FES-EXTRACT.x

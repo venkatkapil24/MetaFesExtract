@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jul 10 13:50:24 2015
+        MODULE PRINT_LOG__genmod
+          INTERFACE 
+            SUBROUTINE PRINT_LOG(MESSAGE)
+              CHARACTER(*) :: MESSAGE
+            END SUBROUTINE PRINT_LOG
+          END INTERFACE 
+        END MODULE PRINT_LOG__genmod

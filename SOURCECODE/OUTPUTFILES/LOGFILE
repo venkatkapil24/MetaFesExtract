@@ -1,0 +1,33 @@
+**********************************************
+*                 SUM_HILLS-1.1              *
+*                                            *
+*      A SUPERFAST FREE ENEGRY               *
+*      RECONSTRUCTION CODE.                  *
+*                                            *
+*      DEVELOPED BY VENKAT KAPIL             *
+*      CONTACT : venkat@iitk.ac.in           *
+*                                            *
+*      COPYRIGHT (C) 2015 VENKAT KAPIL       *
+*      SOME RIGHTS RESERVED.                 *
+*                                            *
+**********************************************
+ 
+ 
+NUMER OF DIMENSIONS                              :   2
+GRID                                             :  201 x  301  
+RANGE                                            :  [-0.10000,  0.10000:-0.15000,  0.15000]
+ 
+NUMBER OF GAUSSIANS                    :   3000
+INITIAL HEIGHT OF GAUSSIANS (a.u.)     :     0.00100
+INITIAL WIDTH  OF GAUSSIANS (a.u.)     :     0.00500
+BIASING TEMPERATURE (K)                :  1200.00000
+PRINTING C(T) EVERY                    :      1 STEP(S)
+ 
+TIME TAKEN BY CODE DURING:
+INPUT                     (s) =      0.00100000
+READING HILLS FILE        (s) =      0.00999800
+CALCULATING TOTAL BIAS    (s) =      0.48692700
+PRINTING THE FREE ENERGY  (s) =      0.24896100
+ 
+TOTAL CPU TIME            (s) =      0.74688600
+**********************************************

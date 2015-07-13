@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jul 10 13:50:24 2015
+        MODULE IBIAS__genmod
+          INTERFACE 
+            FUNCTION IBIAS RESULT(IBIAS_0)
+              INTEGER(KIND=4) :: IBIAS_0
+            END FUNCTION IBIAS
+          END INTERFACE 
+        END MODULE IBIAS__genmod

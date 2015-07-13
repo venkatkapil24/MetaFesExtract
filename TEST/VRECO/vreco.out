@@ -1,0 +1,39 @@
+ **************************************************************
+ **     Reconstructing Metadynamics Free Energy Surface for  **
+ **                        CPMD                              **
+ **                     Version 10.4                         **
+ **************************************************************
+ **                                                          **
+ **     Required files :                                     **
+ **                      colvar_mtd                          **
+ **                      parvar_mtd                          **
+ **                      enevar_mtd [optional]               **
+ **                      cvmdck_mtd [optional]               **
+ **     Output files   :                                     **
+ **                      V.final.out                         **
+ **                      V.dynamic.out [optional]            **
+ **                      walker.out    [optional]            **
+ **                      V.final.cube  [optional]            **
+ **                      V.colvar.cube [optional]            **
+ **                      V.cvmdck.cube [optional]            **
+ **                                                          **
+ **     Help           : see the README file                 **
+ **     Contact        : nisanth.nair@theochem.rub.de        **
+ **************************************************************
+
+
+ Number of coll. coordinates     =       1
+ Grid Size                       =     121
+ Number of Gaussians found       =     498
+ Number of Gaussians used        =     498
+ Min Value of Coll. Cord. #   1  = -0.1781
+ Max Value of Coll. Cord. #   1  =  0.9513
+ Min Value of Hill Height        =  0.0602 kcal/mol
+ Max Value of Hill Height        =  0.6275 kcal/mol
+
+ Total potential written to      = V.final.out
+ Max Reconstructed Potential     =     15.64139814 kcal/mol
+
+ ================ Reconstruction  Completed =================== 
+
+
